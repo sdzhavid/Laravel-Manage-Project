@@ -1,0 +1,51 @@
+/* ------------ footer -----------*/
+
+.app-footer {
+    background: black;
+    color: #8a8a8a;
+    font-size: 14px;
+    padding: 40px 0 20px;
+}
+
+
+.footer-container {
+    max-width: 1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.footer-row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.footer-col-1 {
+    min-width: 250px;
+    margin-bottom: 20px;
+}
+
+.footer-col-1 {
+    flex: 30%;
+    text-align: center;
+    justify-content: center;
+}
+
+.footer-col-1 img {
+    width: 180px;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
+.footer hr {
+    border: none;
+    background: #b5b5b5;
+    height: 1px;
+    margin: 20px 0;
+}
+
+.copyright {
+    text-align: center;
+}
